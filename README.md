@@ -1,5 +1,7 @@
 # Predicting Smartphone Addiction
 
+**FANZIQIAN** (Ziqian Fan) · MC63582 · CISC7204 Class A
+
 Can everyday phone-use features predict a binary `addicted_label`, and is a tiny public-leaderboard gap a safe way to pick the final model?
 
 ## Dataset
