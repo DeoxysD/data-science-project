@@ -4,6 +4,8 @@
 
 Can everyday phone-use features predict a binary `addicted_label`, and is a tiny public-leaderboard gap a safe way to pick the final model?
 
+This repository uses that Kaggle competition as a case. The final ranking was in the top 15%.
+
 ## Dataset
 
 Source: [Kaggle Playground Series S6E8 — Predicting Smartphone Addiction](https://www.kaggle.com/competitions/playground-series-s6e8).
